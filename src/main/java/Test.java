@@ -5,5 +5,6 @@ public class Test {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("冲突测试");
+        System.out.println("push");
     }
 }
